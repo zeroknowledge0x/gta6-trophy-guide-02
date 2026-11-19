@@ -1,0 +1,6 @@
+[
+  { "file": "1-cover.jpg", "path": "/?shot=cover", "viewport": { "width": 1280, "height": 800 }, "view": "Tracker overview: progress bar, grade-badged checklist and an open guide with its source." },
+  { "file": "2-guide.jpg", "path": "/?shot=guide", "viewport": { "width": 1280, "height": 800 }, "view": "A story trophy's guide: official description, field guide, cited source links and steps." },
+  { "file": "3-roadmap.jpg", "path": "/?shot=roadmap", "viewport": { "width": 1280, "height": 800 }, "view": "Six roadmap stages and the missable cards with reasons." },
+  { "file": "4-filters.jpg", "path": "/?shot=filters", "viewport": { "width": 1280, "height": 800 }, "view": "Story filter active, spoilers on, hidden trophies and the export/import controls." }
+]
